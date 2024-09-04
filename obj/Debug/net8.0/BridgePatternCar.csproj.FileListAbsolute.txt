@@ -1,0 +1,14 @@
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\bin\Debug\net8.0\BridgePatternCar.exe
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\bin\Debug\net8.0\BridgePatternCar.deps.json
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\bin\Debug\net8.0\BridgePatternCar.runtimeconfig.json
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\bin\Debug\net8.0\BridgePatternCar.dll
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\bin\Debug\net8.0\BridgePatternCar.pdb
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\BridgePatternCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\BridgePatternCar.AssemblyInfoInputs.cache
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\BridgePatternCar.AssemblyInfo.cs
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\BridgePatternCar.csproj.CoreCompileInputs.cache
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\BridgePatternCar.dll
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\refint\BridgePatternCar.dll
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\BridgePatternCar.pdb
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\BridgePatternCar.genruntimeconfig.cache
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\ref\BridgePatternCar.dll
