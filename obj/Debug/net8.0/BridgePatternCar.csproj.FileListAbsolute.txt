@@ -12,3 +12,4 @@ C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug
 C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\BridgePatternCar.pdb
 C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\BridgePatternCar.genruntimeconfig.cache
 C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\ref\BridgePatternCar.dll
+C:\Users\ElinaPrykhodko\source\repos\BridgePatternCar\BridgePatternCar\obj\Debug\net8.0\BridgePatternCar.sourcelink.json

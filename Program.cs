@@ -7,7 +7,7 @@ public class Program
     static void Main(string[] args)
     {
         ICarType electrickalCarType = new ElectricCarType();
-        Car mycar = new Sedan(electrickalCarType, "ElecticEngine", "electrics");
+        Car mycar = new Sedan(electrickalCarType);
         mycar.DisplayCarInfo();
 
         ICarType dieselCarType = new DieselCarType();

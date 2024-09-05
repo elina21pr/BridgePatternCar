@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BridgePatternCar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f4230d937a00e9cbbdf2a0e900c5b2e86772d6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BridgePatternCar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BridgePatternCar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

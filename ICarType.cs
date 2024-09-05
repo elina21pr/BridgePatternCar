@@ -8,8 +8,8 @@ namespace BridgePatternCar
 {
     public interface ICarType
     {
-        public void GetEngineType(string engine);
-        public void GetFuelType(string fuel);
+        public void GetEngineType();
+        public void GetFuelType();
     }
 
 }

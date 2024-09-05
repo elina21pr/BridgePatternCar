@@ -8,13 +8,13 @@ namespace BridgePatternCar.CarType
 {
     public class ElectricCarType : ICarType
     {
-        public void GetEngineType(string engine)
+        public void GetEngineType()
         {
-            Console.WriteLine("Type Engine: " + engine);
+            Console.WriteLine("Type Engine: electricengine");
         }
-        public void GetFuelType(string fuel)
+        public void GetFuelType()
         {
-            Console.WriteLine("Type Fuel: " + fuel);
+            Console.WriteLine("Type Fuel: electric ");
         }
     }
 }

@@ -9,17 +9,15 @@ namespace BridgePatternCar
     public abstract class Car
     {
         protected ICarType _carType;
-        protected string _engine;
-        protected string _fuel;
-        protected Car(ICarType carType, string engine, string fuel)
+
+        protected Car(ICarType carType)
         {
             _carType = carType;
-            _engine = engine;
-            _fuel = fuel;
+
 
         }
-        public abstract void  GetEngineType(string engine);
-        public abstract void GetFuelType(string fuel);
+        public abstract void GetEngineType();
+        public abstract void GetFuelType();
 
         public void SetCarType(ICarType carType)
         {
@@ -29,8 +27,8 @@ namespace BridgePatternCar
 
         public abstract void DisplayCarInfo();
 
-        
+
     }
 
-    
+
 }
